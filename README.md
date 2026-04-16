@@ -8,10 +8,10 @@ Title of your repository shall be : team-(your team name)
 
 After forking, fill in your team details below in your fork's README
 
-- **Team Name:Mahreen&sumaiya
-- **Team Lead:Mahreen
+- **Team Name:zaddy
+- **Team Lead:zaid
 - **Team Members:1
-  - Member 1:sumaiya
+  - Member 1:zaid
   - Member 2:
   - Member 3:
   - Member 4:
@@ -46,7 +46,8 @@ git push origin main
 
 ## Problem Statement
 
-[Write your problem statement here]
+. OpportunityRadar: AI Agent for Internship and Opportunity
+Discovery
 
 ---
 
